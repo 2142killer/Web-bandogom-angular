@@ -1,0 +1,59 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "iPhone 14 Pro",
+      "image": "https://example.com/iphone14pro.jpg",
+      "description": "Apple iPhone 14 Pro với màn hình Super Retina XDR",
+      "stock": 20,
+      "price": 999
+    },
+    {
+      "id": 2,
+      "name": "Samsung Galaxy S23",
+      "image": "https://example.com/galaxys23.jpg",
+      "description": "Điện thoại Samsung Galaxy S23 hiệu năng mạnh",
+      "stock": 15,
+      "price": 899
+    },
+    {
+      "id": 3,
+      "name": "Xiaomi 13",
+      "image": "https://static.independent.co.uk/2025/04/25/13/42/iStock-1498516775.jpg",
+      "description": "Xiaomi 13 với camera Leica và hiệu năng vượt trội",
+      "stock": 30,
+      "price": 699
+    },
+    {
+      "id": 4,
+      "name": "Bình hoa gốm Bát Tràng",
+      "image": "https://example.com/binh-hoa.jpg",
+      "description": "Bình hoa gốm cao cấp Bát Tràng, họa tiết vẽ tay truyền thống.",
+      "stock": 12,
+      "price": 450000
+    },
+    {
+      "id": 5,
+      "name": "Bộ chén dĩa gốm sứ",
+      "image": "https://example.com/chen-dia.jpg",
+      "description": "Bộ 6 chén và 6 dĩa gốm sứ cao cấp, phù hợp cho gia đình.",
+      "stock": 8,
+      "price": 620000
+    },
+    {
+      "name": "google",
+      "image": "ádasd",
+      "description": "sad",
+      "stock": 123123,
+      "price": 412421,
+      "id": 6
+    }
+  ],
+  "users": [
+    {
+      "email": "dsadsadasd@gmail.com",
+      "password": "$2a$10$VuKPrZoXUWbg/a27H5hFk.vbBCtyzW868QtK8RQHoFkeLNbuM2usq",
+      "id": 1
+    }
+  ]
+}
